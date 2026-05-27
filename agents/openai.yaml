@@ -1,0 +1,3 @@
+display_name: Manufacturing Quality Tool Builder
+short_description: Build simple yield, defect, and quality cost analysis web tools.
+default_prompt: Create a GitHub-ready manufacturing quality analysis tool with formulas, outputs, and improvement suggestions.
